@@ -1,1 +1,1 @@
-# Power-Bi-Profit-report
+I have experience in creating interactive dashboards using Power BI. This dashboard showcases a profit report for Mega Mart, displaying key metrics such as sales, quantity, and profit. It includes various visualizations like line charts, pie charts, and bar graphs to analyze profit by year, category, sub-category, segment, and region. I also incorporated filters and tables to enable detailed data analysis for better decision-making.
